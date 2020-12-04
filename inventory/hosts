@@ -1,0 +1,2 @@
+[cicd]
+localhost ansible_user=root ansible_become=yes

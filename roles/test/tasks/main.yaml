@@ -1,0 +1,5 @@
+---
+- name: Create a folder
+  file:
+    path: /tmp/test
+    state: directory
